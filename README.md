@@ -1,3 +1,7 @@
+Modified: https://asherkim815.github.io/drum-kit-modified/
+
+Original: https://asherkim815.github.io/drum-kit-original/
+
 This project came from a Udemy course by Angela Yu, The Complete 2024 Web Development Bootcamp.
 
 I modified it the following way:
